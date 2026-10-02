@@ -1,0 +1,5 @@
+E:/Summergo/Unity/Proyectos/TUBINI/.utmp/RelWithDebInfo/621e3w3m/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Summergo/Unity/Proyectos/TUBINI/.utmp/RelWithDebInfo/621e3w3m/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Summergo/Unity/Proyectos/TUBINI/.utmp/RelWithDebInfo/621e3w3m/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/Summergo/Unity/Proyectos/TUBINI/.utmp/RelWithDebInfo/621e3w3m/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/Summergo/Unity/Proyectos/TUBINI/.utmp/RelWithDebInfo/621e3w3m/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

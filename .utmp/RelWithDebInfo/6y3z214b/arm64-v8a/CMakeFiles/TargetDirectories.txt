@@ -1,0 +1,5 @@
+D:/TUBINI/.utmp/RelWithDebInfo/6y3z214b/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/TUBINI/.utmp/RelWithDebInfo/6y3z214b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/TUBINI/.utmp/RelWithDebInfo/6y3z214b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/TUBINI/.utmp/RelWithDebInfo/6y3z214b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/TUBINI/.utmp/RelWithDebInfo/6y3z214b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
